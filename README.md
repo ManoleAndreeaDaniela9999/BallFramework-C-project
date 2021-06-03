@@ -1,4 +1,4 @@
-# BallFramework-C-project
+# BallFramework-C++-project
 
 This project was made by a team of 4
 

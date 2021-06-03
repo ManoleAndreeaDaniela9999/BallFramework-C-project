@@ -1,0 +1,5 @@
+4
+ball ../Assets/ball.png
+redBall ../Assets/redball.png
+star ../Assets/star.png
+redHeart ../Assets/redheart.png

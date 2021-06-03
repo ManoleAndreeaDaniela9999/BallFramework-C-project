@@ -1,0 +1,40 @@
+---Games Statistics---
+Format:  Player Name  Games Played  Games Won  Games Lost 
+
+Pong Singleplayer
+play1 2 2 0
+achi 2 2 0
+A 0 2 0
+A 0 2 0
+A 0 2 0
+A 0 2 0
+A 0 2 0
+A 0 2 0
+A 0 2 0
+A 0 2 0
+
+Pong Multiplayer
+anon 1 1 0
+marius 1 0 1
+
+BrickBreaker Singleplayer
+Player4 7 7 0
+marius 3 2 1
+dnc 1 0 1
+dany 1 0 1
+dna 2 0 2
+Player3 6 1 5
+Player3 6 1 5
+Player3 6 1 5
+Player3 6 1 5
+Player3 6 1 5
+
+BrickBreaker CO-OP
+
+BrickBreaker Versus
+anon 2 2 0
+hello 2 1 1
+marius 2 0 2
+marius 2 0 2
+marius 2 0 2
+
